@@ -9,6 +9,16 @@ This Python program simulates a **Cybersecurity Threat Detection System** for ae
 - Generates alerts for potential cyber threats.
 - Provides a CLI interface for user interaction.
 
+### Username and Password for Testing
+To test the **Unauthorized Access Detection** feature, use the following credentials:
+- **Authorized Users**:
+  - Username: `admin`
+  - Password: `admin123`
+  - Username: `pilot`
+  - Password: `pilot456`
+- **Unauthorized Users**: Any other username/password combination.
+
+- 
 ### How to Run
 1. Clone the repository:
    ```bash
