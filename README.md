@@ -2,7 +2,7 @@
 
 ## Aerospace Cybersecurity Threat Detector
 
-I'm Nikhith Gowda S, CSE - CPS Student From Jain UNiversity
+I'm Nikhith Gowda S, B.TEch  CSE - CPS Student From Jain University
 
 ### Overview
 This Python program simulates a **Cybersecurity Threat Detection System** for aerospace systems. It:
