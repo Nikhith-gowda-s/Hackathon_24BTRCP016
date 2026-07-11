@@ -18,7 +18,7 @@ To test the **Unauthorized Access Detection** feature, use the following credent
   - Password: `admin123`
   - Username: `pilot`
   - Password: `pilot456`
-- **Unauthorized Users**: Any other username/password combination.
+- **Unauthorized Users**: Any other username & password combination.
 
   
 ### How to Run
